@@ -1,0 +1,274 @@
+D:\Other\CourceProject\CourceProject\bin\Debug\CourceProject.exe.config
+D:\Other\CourceProject\CourceProject\bin\Debug\CourceProject.exe
+D:\Other\CourceProject\CourceProject\bin\Debug\CourceProject.pdb
+D:\Other\CourceProject\CourceProject\bin\Debug\ControlzEx.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\MahApps.Metro.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\System.Windows.Interactivity.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\ControlzEx.pdb
+D:\Other\CourceProject\CourceProject\bin\Debug\MahApps.Metro.pdb
+D:\Other\CourceProject\CourceProject\bin\Debug\MahApps.Metro.xml
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.csprojResolveAssemblyReference.cache
+D:\Other\CourceProject\CourceProject\obj\Debug\App.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.cache
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.lref
+D:\Other\CourceProject\CourceProject\obj\Debug\App.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.g.resources
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.Properties.Resources.resources
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.GenerateResource.cache
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CoreCompileInputs.cache
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.exe
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject.pdb
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\MainWindow.g.cs
+D:\Other\CourceProject\CourceProject\bin\Debug\HamburgerMenu.dll
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\MainWindow.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\CalendarView.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\SearchView.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\CalendarView.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\SearchView.baml
+D:\Other\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Prism.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Prism.Wpf.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Other\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Other\CourceProject\CourceProject\bin\Debug\Prism.xml
+D:\Other\CourceProject\CourceProject\bin\Debug\Prism.Wpf.xml
+D:\Other\CourceProject\CourceProject\obj\Debug\Styles\CalendarStyle.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\Styles\FlatComboBoxStyle.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.baml
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\CourceProject\CourceProject\obj\Debug\Styles\PlayerStyle.baml
+D:\Other\CourceProject\CourceProject\bin\Debug\NAudio.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\NAudio.xml
+D:\Other\CourceProject\CourceProject\bin\Debug\EntityFramework.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\CourceProject\CourceProject\bin\Debug\EntityFramework.xml
+D:\Other\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\Other\CourceProject\CourceProject\obj\Debug\CourceProject_Content.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.baml
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.g.cs
+D:\Other\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.csprojResolveAssemblyReference.cache
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\CalendarView.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\MainWindow.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\SearchView.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\App.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject_Content.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.cache
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.lref
+D:\Other\1\CourceProject\CourceProject\obj\Debug\App.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Styles\CalendarStyle.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Styles\FlatComboBoxStyle.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Styles\PlayerStyle.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\CalendarView.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\MainWindow.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\SearchView.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.baml
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.g.resources
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.pdb
+D:\Other\1\CourceProject\CourceProject\bin\Debug\CourceProject.exe.config
+D:\Other\1\CourceProject\CourceProject\bin\Debug\CourceProject.exe
+D:\Other\1\CourceProject\CourceProject\bin\Debug\CourceProject.pdb
+D:\Other\1\CourceProject\CourceProject\bin\Debug\ControlzEx.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\EntityFramework.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\HamburgerMenu.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\MahApps.Metro.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\NAudio.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Prism.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Prism.Wpf.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\System.Windows.Interactivity.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\ControlzEx.pdb
+D:\Other\1\CourceProject\CourceProject\bin\Debug\EntityFramework.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\MahApps.Metro.pdb
+D:\Other\1\CourceProject\CourceProject\bin\Debug\MahApps.Metro.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\NAudio.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Prism.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\Prism.Wpf.xml
+D:\Other\1\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.Properties.Resources.resources
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.GenerateResource.Cache
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CoreCompileInputs.cache
+D:\Other\1\CourceProject\CourceProject\obj\Debug\CourceProject.exe
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.exe.config
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.exe
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.pdb
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ControlzEx.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\HamburgerMenu.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\NAudio.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.Wpf.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ControlzEx.pdb
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.pdb
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\NAudio.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.Wpf.xml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\CalendarView.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\SearchView.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\App.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_Content.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.cache
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.lref
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\App.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\CalendarStyle.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\FlatComboBoxStyle.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\PlayerStyle.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\CalendarView.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MainWindow.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\SearchView.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.baml
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.g.resources
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.Properties.Resources.resources
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.GenerateResource.Cache
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CoreCompileInputs.cache
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.exe
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.pdb
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CopyComplete
+C:\Users\Димооооон\Downloads\CourceProject\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.exe.config
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.exe
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\CourceProject.pdb
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ControlzEx.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\HamburgerMenu.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\NAudio.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.Wpf.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\System.Windows.Interactivity.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ControlzEx.pdb
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.pdb
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\MahApps.Metro.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\NAudio.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\Prism.Wpf.xml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\CalendarView.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MainWindow.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\SearchView.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\App.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_Content.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.cache
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject_MarkupCompile.lref
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\App.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\CalendarStyle.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\FlatComboBoxStyle.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Styles\PlayerStyle.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\CalendarView.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\DayDetailsWindow.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MainWindow.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\MyMediaPlayer.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\SearchView.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\Views\UserLoginView.baml
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.g.resources
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.Properties.Resources.resources
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.GenerateResource.cache
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CoreCompileInputs.cache
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.csproj.CopyComplete
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.exe
+D:\учёба\2 курс\2 семестр\C#\Курсовой\CourceProject\CourceProject\CourceProject\obj\Debug\CourceProject.pdb

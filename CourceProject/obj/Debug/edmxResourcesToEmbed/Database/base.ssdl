@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CourceProject.Database.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="CourceProjectDatabaseStoreContainer">
+    <EntitySet Name="User" EntityType="CourceProject.Database.Store.User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserNotes" EntityType="CourceProject.Database.Store.UserNotes" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_UserNotes_User" Association="CourceProject.Database.Store.FK_UserNotes_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="UserNotes" EntitySet="UserNotes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Login" />
+    </Key>
+    <Property Name="Login" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="UserNotes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserLogin" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="NoteDate" Type="datetime" Nullable="false" />
+    <Property Name="Note" Type="nvarchar" Nullable="false" MaxLength="3000" />
+  </EntityType>
+  <Association Name="FK_UserNotes_User">
+    <End Role="User" Type="CourceProject.Database.Store.User" Multiplicity="1" />
+    <End Role="UserNotes" Type="CourceProject.Database.Store.UserNotes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Login" />
+      </Principal>
+      <Dependent Role="UserNotes">
+        <PropertyRef Name="UserLogin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

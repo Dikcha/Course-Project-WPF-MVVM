@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="CourceProject.Views.MyMediaPlayer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:CourceProject.Views"
+             mc:Ignorable="d">
+    <Grid>
+        <StackPanel>
+            <MediaElement MediaElement.LoadedBehavior="Manual"  x:Name="_player" Visibility="Collapsed"/>
+            <Label Background="White" Content="{Binding Record.RecordTitle}" MaxWidth="390" FontFamily="Lucida Console" FontSize="10"/>
+            <StackPanel Orientation="Horizontal" Background="Black">
+                <Button Style="{StaticResource IconButtonStyle}" 
+                        Margin="3,0,3,0"
+                        Command="{Binding Play}">
+                    <Image Source="/Resources/play_32.png"/>
+                </Button>
+                <Button Style="{StaticResource IconButtonStyle}"
+                        Margin="3,0,3,0"
+                        Command="{Binding Pause}">
+                    <Image Source="/Resources/pause_32.png"/>
+                </Button>
+                <Button Style="{StaticResource IconButtonStyle}" 
+                        Margin="3,0,3,0"
+                        Command="{Binding Stop}">
+                    <Image Source="/Resources/stop_32.png"/>
+                </Button>
+                <Grid Width="300">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.7*"/>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="5"/>
+                        <ColumnDefinition Width="0.3*"/>
+                    </Grid.ColumnDefinitions>
+                    <Slider Grid.Column="0" x:Name="DurationSlider" IsMoveToPointEnabled="True" Minimum="0" Maximum="100" VerticalAlignment="Center"/>
+                    <Rectangle Grid.Column="2"
+                               Width="2"
+                               Height="20"                               
+                               Stroke="#fd264f" 
+                               VerticalAlignment="Center"
+                               Fill="#fd264f"/>
+                    <Slider Grid.Column="4" Value="{Binding Volume, ElementName=_player, Mode=TwoWay}" IsMoveToPointEnabled="True"
+                            VerticalAlignment="Center" Minimum="0" Maximum="1"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>
